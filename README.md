@@ -11,7 +11,7 @@ The simulation outputs are displayed using a customized visualization tool. The 
 
 #### Folder Information
 
-airport_sim folder has three folders (doc, src, and run) in the tarball.
+**airport_sim** folder has three folders (doc, src, and run) in the tarball.
 
 The source codes are located in the "src" folder.
 
@@ -19,7 +19,7 @@ The report in PDF format is located in the "doc" folder.
 
 The script for running the simulation in batch mode on Jinx cluster is located in the "run" folder.
 
-The vis folder contains a javascript code for visualization.
+The **vis** folder contains a javascript code for visualization.
 
 #### Setup
 
