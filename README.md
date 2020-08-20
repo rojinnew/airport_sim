@@ -4,7 +4,7 @@ In this work, we modeled and simulated an airport system with 64 airports and 2,
 
 #### Visualization
 
-![Image](https://github.com/rojinnew/airport_simulation/tree/master/vis)
+![Image](https://github.com/rojinnew/airport_simulation/tree/master/vis/image.png)
 
 The simulation outputs are using a customized visualization tool. The tool reads the simulation's log file. Each row of the log file contains the simulation timestamp, the airplane ID, the originating airport, and the destination airport. This visualization tool was adapted from the ![tutorial](https://www.tnoda.com/blog/2014-04-02/) published by Tom Noda. 
 
