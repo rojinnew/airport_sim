@@ -1,0 +1,7 @@
+clock,xxx,src,dest
+5.0,Animation,AMS,NRT
+5.0,Animation,AMS,LAX
+20.0,Animation,ATL,NRT
+20.0,Animation,ATL,AMS
+35.0,Animation,LAX,AMS
+35.0,Animation,LAX,TPE
